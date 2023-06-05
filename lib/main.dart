@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Responsive UI',
+      title: 'Sign Up Page',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.light().copyWith(),
       home: const LoginScreen(),
